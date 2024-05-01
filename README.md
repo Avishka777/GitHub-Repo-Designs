@@ -31,17 +31,9 @@
   <h2>Web Development</h2>
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="600">
   <br><br>
-  
-  <h2>Animated Laptop Banner</h2>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
-  <br><br>
 
   <h2>MultiScreen Analysis</h2>
   <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="600">
-  <br><br>
-  
-  <h2>Productive Working</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="600">
   <br><br>
 
   <h2>Mario</h2>
